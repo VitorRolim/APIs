@@ -1,0 +1,14 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ClassesAPIs\obj\Debug\net8.0\ClassesAPIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ClassesAPIs\obj\Debug\net8.0\ClassesAPIs.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ClassesAPIs\obj\Debug\net8.0\ClassesAPIs.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ClassesAPIs\obj\Debug\net8.0\ClassesAPIs.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ClassesAPIs\bin\Debug\net8.0\ClassesAPIs.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ClassesAPIs\bin\Debug\net8.0\ClassesAPIs.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ClassesAPIs\bin\Debug\net8.0\ClassesAPIs.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ClassesAPIs\bin\Debug\net8.0\ClassesAPIs.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ClassesAPIs\bin\Debug\net8.0\ClassesAPIs.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ClassesAPIs\obj\Debug\net8.0\ClassesAPIs.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ClassesAPIs\obj\Debug\net8.0\refint\ClassesAPIs.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ClassesAPIs\obj\Debug\net8.0\ClassesAPIs.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ClassesAPIs\obj\Debug\net8.0\ClassesAPIs.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Área de trabalho\.CursoC#-alura\Projetos\API\ClassesAPIs\obj\Debug\net8.0\ref\ClassesAPIs.dll
